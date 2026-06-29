@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Account_Type,Category,Amount,Description,Branch
+T0001,1/6/2024,Checking,Transfer,3371,Internal Transfer,Online
+T0002,12/22/2024,Checking,Withdrawal,1372,Cash Withdrawal,System
+T0003,8/9/2024,Savings,Deposit,1929,Freelance Income,Main Branch
+T0004,12/20/2024,Savings,Interest,12,Monthly Interest,Online Transfer
+T0005,3/23/2024,Checking,Transfer,4438,Internal Transfer,ATM-002
+T0006,1/29/2024,Checking,Deposit,6992,Freelance Income,System
+T0007,10/11/2024,Checking,Deposit,2743,Salary Transfer,ATM-001
+T0008,8/17/2024,Checking,Payment,3913,Grocery Shopping,ATM-002
+T0009,9/22/2024,Checking,Transfer,4635,Internal Transfer,POS Terminal
+T0010,4/2/2024,Savings,Deposit,5341,Salary Transfer,System
+T0011,6/4/2024,Savings,Withdrawal,2197,ATM Withdrawal,Online
+T0012,10/5/2024,Checking,Interest,17,Monthly Interest,Main Branch
+T0013,9/25/2024,Savings,Withdrawal,1106,ATM Withdrawal,POS Terminal
+T0014,4/11/2024,Savings,Withdrawal,475,Cash Withdrawal,Main Branch
+T0015,3/20/2024,Savings,Payment,377,Utility Bill,System
+T0016,11/24/2024,Savings,Payment,3577,Utility Bill,Online Transfer
+T0017,12/1/2024,Checking,Interest,83,Monthly Interest,ATM-001
+T0018,7/4/2024,Checking,Deposit,3219,Bonus Payment,Online Transfer
+T0019,5/19/2024,Checking,Payment,1417,Internet Bill,Main Branch
+T0020,12/9/2024,Savings,Withdrawal,1288,ATM Withdrawal,ATM-001
+T0021,3/26/2024,Savings,Deposit,6863,Cash Deposit,System
+T0022,10/18/2024,Checking,Deposit,6336,Freelance Income,Online Transfer
+T0023,6/2/2024,Savings,Interest,78,Monthly Interest,ATM-001
+T0024,6/24/2024,Savings,Transfer,3424,Internal Transfer,Online
+T0025,4/6/2024,Savings,Payment,2877,Grocery Shopping,POS Terminal
+T0026,1/9/2024,Savings,Deposit,6006,Salary Transfer,ATM-001
+T0027,4/19/2024,Savings,Interest,118,Monthly Interest,Online Transfer
+T0028,10/4/2024,Checking,Withdrawal,261,Cash Withdrawal,ATM-002
+T0029,10/24/2024,Savings,Interest,35,Monthly Interest,Main Branch
+T0030,2/13/2024,Checking,Transfer,4974,Internal Transfer,Online Transfer
+T0031,10/8/2024,Savings,Deposit,2510,Salary Transfer,Online
+T0032,6/13/2024,Checking,Withdrawal,1616,Emergency Fund,Online
+T0033,8/29/2024,Savings,Payment,289,Insurance Payment,Main Branch
+T0034,10/30/2024,Savings,Deposit,7953,Freelance Income,ATM-001
+T0035,3/12/2024,Checking,Deposit,5197,Freelance Income,Online Transfer
+T0036,11/15/2024,Savings,Interest,114,Monthly Interest,Main Branch
+T0037,5/10/2024,Savings,Deposit,2768,Salary Transfer,System
+T0038,5/19/2024,Savings,Transfer,2184,Internal Transfer,Online
+T0039,3/8/2024,Savings,Transfer,2670,Internal Transfer,ATM-002
+T0040,9/28/2024,Savings,Interest,12,Monthly Interest,Online
+T0041,6/23/2024,Checking,Payment,1641,Coffee Shop,System
+T0042,3/17/2024,Savings,Interest,48,Monthly Interest,ATM-002
+T0043,3/5/2024,Checking,Interest,16,Monthly Interest,Main Branch
+T0044,4/25/2024,Checking,Transfer,1332,Internal Transfer,Online
+T0045,10/5/2024,Checking,Withdrawal,2951,ATM Withdrawal,Online
+T0046,8/5/2024,Savings,Withdrawal,1428,Cash Withdrawal,System
+T0047,5/6/2024,Checking,Deposit,4006,Refund,Main Branch
+T0048,8/21/2024,Savings,Payment,1998,Internet Bill,System
+T0049,9/30/2024,Checking,Transfer,1275,Money Transfer,ATM-001
+T0050,6/22/2024,Savings,Transfer,4140,Internal Transfer,Online Transfer
+T0051,5/12/2024,Checking,Interest,68,Monthly Interest,Main Branch
+T0052,8/23/2024,Savings,Withdrawal,1815,ATM Withdrawal,Online
+T0053,8/15/2024,Savings,Transfer,3807,Internal Transfer,POS Terminal
+T0054,4/13/2024,Savings,Transfer,444,Investment,Online
+T0055,10/1/2024,Checking,Deposit,1207,Cash Deposit,Online
+T0056,7/30/2024,Checking,Deposit,7050,Salary Transfer,Online
+T0057,4/24/2024,Savings,Transfer,1040,Internal Transfer,ATM-002
+T0058,10/4/2024,Savings,Interest,55,Monthly Interest,POS Terminal
+T0059,7/22/2024,Savings,Transfer,3970,Money Transfer,Main Branch
+T0060,10/20/2024,Savings,Deposit,807,Freelance Income,ATM-001
+T0061,4/14/2024,Checking,Transfer,1278,Money Transfer,Main Branch
+T0062,11/17/2024,Checking,Interest,21,Monthly Interest,System
+T0063,1/10/2024,Savings,Deposit,1754,Bonus Payment,System
+T0064,11/3/2024,Savings,Deposit,2972,Cash Deposit,POS Terminal
+T0065,4/26/2024,Checking,Payment,1859,Utility Bill,Online
+T0066,8/14/2024,Savings,Transfer,987,Money Transfer,System
+T0067,12/16/2024,Checking,Payment,2642,Grocery Shopping,Online Transfer
+T0068,12/6/2024,Checking,Withdrawal,1230,Emergency Fund,Main Branch
+T0069,9/2/2024,Savings,Deposit,2704,Salary Transfer,Online
+T0070,1/9/2024,Checking,Transfer,3042,Investment,Online Transfer
+T0071,4/30/2024,Checking,Withdrawal,1392,Cash Withdrawal,ATM-002
+T0072,5/27/2024,Checking,Withdrawal,2350,Emergency Fund,Online Transfer
+T0073,7/13/2024,Checking,Deposit,1648,Bonus Payment,ATM-002
+T0074,10/23/2024,Checking,Transfer,1907,Money Transfer,Main Branch
+T0075,2/14/2024,Savings,Transfer,4047,Investment,POS Terminal
+T0076,11/25/2024,Checking,Transfer,4721,Investment,ATM-001
+T0077,2/11/2024,Checking,Transfer,2980,Internal Transfer,Main Branch
+T0078,7/10/2024,Savings,Deposit,6873,Cash Deposit,System
+T0079,3/27/2024,Checking,Transfer,3682,Money Transfer,Online
+T0080,4/21/2024,Checking,Withdrawal,2252,ATM Withdrawal,Online Transfer
+T0081,5/25/2024,Checking,Payment,3681,Grocery Shopping,System
+T0082,7/19/2024,Checking,Transfer,3533,Investment,POS Terminal
+T0083,7/4/2024,Savings,Deposit,5245,Refund,POS Terminal
+T0084,6/22/2024,Checking,Payment,2021,Phone Bill,Online Transfer
+T0085,11/26/2024,Checking,Transfer,1737,Internal Transfer,Main Branch
+T0086,7/18/2024,Savings,Interest,112,Monthly Interest,Online Transfer
+T0087,4/27/2024,Savings,Withdrawal,1361,Cash Withdrawal,POS Terminal
+T0088,10/8/2024,Checking,Payment,228,Internet Bill,POS Terminal
+T0089,1/14/2024,Savings,Deposit,3702,Cash Deposit,POS Terminal
+T0090,8/29/2024,Savings,Withdrawal,1489,ATM Withdrawal,Online
+T0091,7/31/2024,Checking,Withdrawal,1742,ATM Withdrawal,System
+T0092,11/10/2024,Savings,Transfer,4629,Internal Transfer,ATM-002
+T0093,11/26/2024,Savings,Deposit,4923,Bonus Payment,Online Transfer
+T0094,1/28/2024,Savings,Payment,732,Phone Bill,ATM-001
+T0095,10/8/2024,Checking,Deposit,4810,Refund,Online
+T0096,6/30/2024,Savings,Interest,97,Monthly Interest,System
+T0097,11/12/2024,Checking,Withdrawal,1515,Emergency Fund,ATM-001
+T0098,8/16/2024,Savings,Transfer,1681,Investment,Online Transfer
+T0099,11/22/2024,Checking,Transfer,2520,Money Transfer,System
+T0100,6/29/2024,Savings,Withdrawal,1567,ATM Withdrawal,Main Branch
+T0101,2/5/2024,Savings,Transfer,3439,Investment,System
+T0102,3/7/2024,Savings,Interest,76,Monthly Interest,Main Branch
+T0103,2/6/2024,Savings,Transfer,3891,Internal Transfer,ATM-002
+T0104,1/24/2024,Savings,Withdrawal,2962,Emergency Fund,POS Terminal
+T0105,10/3/2024,Savings,Withdrawal,548,ATM Withdrawal,Online
+T0106,7/15/2024,Checking,Deposit,2489,Freelance Income,POS Terminal
+T0107,2/29/2024,Checking,Transfer,3794,Internal Transfer,System
+T0108,6/20/2024,Savings,Interest,139,Monthly Interest,Online
+T0109,9/11/2024,Savings,Transfer,1715,Investment,Online
+T0110,9/3/2024,Checking,Interest,85,Monthly Interest,ATM-002
+T0111,10/30/2024,Checking,Deposit,2317,Cash Deposit,Online
+T0112,3/21/2024,Checking,Withdrawal,1763,ATM Withdrawal,Online
+T0113,4/29/2024,Checking,Interest,35,Monthly Interest,ATM-001
+T0114,10/14/2024,Savings,Deposit,2941,Freelance Income,ATM-001
+T0115,9/22/2024,Checking,Interest,126,Monthly Interest,ATM-001
+T0116,3/3/2024,Checking,Interest,93,Monthly Interest,Online Transfer
+T0117,5/17/2024,Checking,Deposit,2555,Cash Deposit,Online
+T0118,4/25/2024,Checking,Transfer,661,Money Transfer,POS Terminal
+T0119,2/5/2024,Checking,Payment,3012,Insurance Payment,ATM-001
+T0120,3/22/2024,Checking,Interest,62,Monthly Interest,ATM-001
+T0121,7/19/2024,Savings,Deposit,6640,Cash Deposit,Online
+T0122,5/1/2024,Savings,Transfer,1470,Investment,Online
+T0123,1/28/2024,Savings,Transfer,533,Internal Transfer,Online
+T0124,6/23/2024,Checking,Withdrawal,2774,ATM Withdrawal,POS Terminal
+T0125,10/7/2024,Checking,Interest,95,Monthly Interest,POS Terminal
+T0126,1/28/2024,Savings,Payment,3962,Grocery Shopping,ATM-001
+T0127,3/24/2024,Checking,Withdrawal,1057,Emergency Fund,System
+T0128,9/21/2024,Savings,Interest,79,Monthly Interest,Online
+T0129,10/7/2024,Savings,Payment,2287,Insurance Payment,ATM-002
+T0130,6/16/2024,Savings,Payment,2008,Utility Bill,Main Branch
+T0131,7/12/2024,Savings,Transfer,1131,Investment,POS Terminal
+T0132,9/14/2024,Checking,Transfer,4113,Investment,Online
+T0133,1/17/2024,Checking,Payment,324,Grocery Shopping,ATM-002
+T0134,11/29/2024,Savings,Payment,1503,Rent Payment,Main Branch
+T0135,3/14/2024,Checking,Interest,125,Monthly Interest,Online Transfer
+T0136,6/17/2024,Checking,Withdrawal,1546,ATM Withdrawal,ATM-002
+T0137,10/9/2024,Savings,Withdrawal,2411,Cash Withdrawal,POS Terminal
+T0138,10/11/2024,Savings,Withdrawal,2546,Emergency Fund,POS Terminal
+T0139,8/3/2024,Savings,Transfer,3088,Internal Transfer,Main Branch
+T0140,3/26/2024,Checking,Payment,2663,Internet Bill,ATM-002
+T0141,7/6/2024,Checking,Transfer,1506,Internal Transfer,ATM-002
+T0142,8/13/2024,Savings,Deposit,6814,Bonus Payment,ATM-001
+T0143,9/24/2024,Checking,Interest,117,Monthly Interest,Online
+T0144,3/31/2024,Savings,Withdrawal,1862,Cash Withdrawal,Main Branch
+T0145,2/12/2024,Checking,Payment,449,Utility Bill,System
+T0146,3/30/2024,Checking,Deposit,682,Salary Transfer,Online Transfer
+T0147,4/2/2024,Checking,Interest,61,Monthly Interest,System
+T0148,8/4/2024,Savings,Withdrawal,2271,ATM Withdrawal,Main Branch
+T0149,6/7/2024,Checking,Transfer,2670,Investment,Online Transfer
+T0150,11/29/2024,Checking,Payment,3664,Utility Bill,Main Branch
+T0151,2/20/2024,Savings,Payment,1973,Internet Bill,ATM-002
+T0152,3/25/2024,Savings,Withdrawal,1567,Emergency Fund,ATM-001
+T0153,3/13/2024,Checking,Deposit,2031,Cash Deposit,Main Branch
+T0154,8/4/2024,Savings,Interest,93,Monthly Interest,POS Terminal
+T0155,3/31/2024,Savings,Transfer,4314,Investment,System
+T0156,6/30/2024,Savings,Transfer,330,Internal Transfer,ATM-002
+T0157,5/9/2024,Checking,Deposit,4070,Refund,Main Branch
+T0158,5/28/2024,Checking,Transfer,4024,Investment,POS Terminal
+T0159,10/19/2024,Checking,Transfer,1272,Internal Transfer,Main Branch
+T0160,10/21/2024,Checking,Withdrawal,593,Emergency Fund,System
+T0161,2/11/2024,Checking,Interest,101,Monthly Interest,System
+T0162,4/9/2024,Savings,Payment,1843,Rent Payment,Online Transfer
+T0163,8/18/2024,Savings,Deposit,2516,Bonus Payment,System
+T0164,3/13/2024,Checking,Deposit,6416,Cash Deposit,Main Branch
+T0165,9/28/2024,Checking,Interest,92,Monthly Interest,Online
+T0166,4/24/2024,Savings,Payment,1648,Insurance Payment,ATM-001
+T0167,8/1/2024,Checking,Deposit,7945,Salary Transfer,POS Terminal
+T0168,1/2/2024,Savings,Payment,2936,Phone Bill,Online Transfer
+T0169,9/20/2024,Savings,Interest,42,Monthly Interest,Main Branch
+T0170,10/21/2024,Savings,Transfer,1549,Money Transfer,Online
+T0171,11/21/2024,Savings,Deposit,5107,Salary Transfer,System
+T0172,6/21/2024,Checking,Interest,109,Monthly Interest,POS Terminal
+T0173,3/4/2024,Checking,Payment,3639,Internet Bill,System
+T0174,1/2/2024,Savings,Interest,120,Monthly Interest,POS Terminal
+T0175,2/15/2024,Checking,Payment,3859,Grocery Shopping,ATM-001
+T0176,10/13/2024,Savings,Withdrawal,1966,Cash Withdrawal,Online Transfer
+T0177,9/14/2024,Savings,Payment,2061,Internet Bill,Main Branch
+T0178,5/2/2024,Checking,Transfer,2757,Money Transfer,ATM-002
+T0179,4/6/2024,Checking,Transfer,791,Internal Transfer,System
+T0180,9/10/2024,Savings,Interest,68,Monthly Interest,Online Transfer
+T0181,9/4/2024,Checking,Payment,2672,Phone Bill,Online
+T0182,2/15/2024,Checking,Interest,111,Monthly Interest,System
+T0183,8/12/2024,Savings,Withdrawal,315,ATM Withdrawal,Online
+T0184,1/11/2024,Checking,Withdrawal,1198,Cash Withdrawal,Online
+T0185,3/18/2024,Checking,Transfer,1368,Internal Transfer,System
+T0186,6/11/2024,Checking,Interest,49,Monthly Interest,Online Transfer
+T0187,7/19/2024,Checking,Withdrawal,1457,Cash Withdrawal,System
+T0188,9/17/2024,Checking,Withdrawal,207,Emergency Fund,ATM-001
+T0189,5/4/2024,Checking,Interest,112,Monthly Interest,ATM-001
+T0190,10/28/2024,Savings,Transfer,3859,Investment,System
+T0191,7/16/2024,Savings,Interest,65,Monthly Interest,Online Transfer
+T0192,6/20/2024,Checking,Withdrawal,2405,Cash Withdrawal,ATM-002
+T0193,2/7/2024,Checking,Interest,107,Monthly Interest,Online
+T0194,1/20/2024,Savings,Transfer,1631,Money Transfer,ATM-001
+T0195,4/10/2024,Savings,Interest,77,Monthly Interest,Main Branch
+T0196,4/1/2024,Checking,Interest,24,Monthly Interest,System
+T0197,10/12/2024,Savings,Payment,3851,Coffee Shop,Main Branch
+T0198,9/12/2024,Savings,Payment,3151,Coffee Shop,Main Branch
+T0199,12/12/2024,Savings,Transfer,1984,Investment,Online Transfer
+T0200,3/19/2024,Savings,Deposit,5481,Freelance Income,Main Branch
+T0201,3/29/2024,Savings,Deposit,2604,Salary Transfer,Online Transfer
+T0202,6/14/2024,Savings,Deposit,6430,Freelance Income,Online Transfer
+T0203,9/9/2024,Savings,Transfer,1855,Money Transfer,Online
+T0204,6/28/2024,Savings,Withdrawal,1982,Cash Withdrawal,System
+T0205,12/22/2024,Savings,Deposit,5050,Cash Deposit,ATM-002
+T0206,1/15/2024,Savings,Deposit,6600,Bonus Payment,ATM-002
+T0207,5/4/2024,Checking,Withdrawal,640,ATM Withdrawal,POS Terminal
+T0208,3/17/2024,Savings,Deposit,1553,Salary Transfer,ATM-001
+T0209,8/26/2024,Savings,Deposit,1317,Freelance Income,Online Transfer
+T0210,6/20/2024,Checking,Interest,44,Monthly Interest,ATM-001
+T0211,6/5/2024,Checking,Transfer,995,Internal Transfer,ATM-001
+T0212,1/14/2024,Savings,Withdrawal,153,ATM Withdrawal,Online Transfer
+T0213,10/20/2024,Checking,Payment,3180,Rent Payment,Main Branch
+T0214,3/6/2024,Savings,Transfer,3694,Money Transfer,ATM-001
+T0215,6/29/2024,Savings,Deposit,2728,Freelance Income,Online
+T0216,10/13/2024,Checking,Withdrawal,1912,ATM Withdrawal,Online Transfer
+T0217,5/26/2024,Checking,Transfer,4501,Internal Transfer,System
+T0218,3/25/2024,Checking,Deposit,4949,Bonus Payment,ATM-002
+T0219,12/3/2024,Checking,Transfer,4694,Money Transfer,System
+T0220,3/9/2024,Checking,Interest,49,Monthly Interest,POS Terminal
+T0221,12/17/2024,Checking,Withdrawal,238,ATM Withdrawal,ATM-001
+T0222,6/23/2024,Checking,Interest,17,Monthly Interest,Main Branch
+T0223,11/14/2024,Checking,Interest,55,Monthly Interest,Main Branch
+T0224,11/22/2024,Savings,Payment,3945,Coffee Shop,Online Transfer
+T0225,9/4/2024,Savings,Payment,2812,Phone Bill,POS Terminal
+T0226,1/8/2024,Checking,Withdrawal,1184,ATM Withdrawal,System
+T0227,3/30/2024,Savings,Withdrawal,2897,ATM Withdrawal,Online
+T0228,11/15/2024,Checking,Transfer,1162,Investment,POS Terminal
+T0229,12/16/2024,Checking,Interest,88,Monthly Interest,POS Terminal
+T0230,4/5/2024,Checking,Withdrawal,2666,Cash Withdrawal,Main Branch
+T0231,8/8/2024,Savings,Payment,689,Utility Bill,ATM-002
+T0232,3/24/2024,Savings,Deposit,2409,Refund,System
+T0233,7/31/2024,Savings,Deposit,2985,Bonus Payment,Main Branch
+T0234,7/1/2024,Checking,Transfer,4193,Money Transfer,Online Transfer
+T0235,6/28/2024,Savings,Interest,15,Monthly Interest,Online Transfer
+T0236,9/19/2024,Checking,Payment,683,Grocery Shopping,POS Terminal
+T0237,9/23/2024,Checking,Interest,87,Monthly Interest,Online Transfer
+T0238,3/9/2024,Savings,Transfer,1434,Internal Transfer,ATM-002
+T0239,5/23/2024,Savings,Transfer,424,Investment,System
+T0240,8/17/2024,Savings,Payment,888,Phone Bill,Online Transfer
+T0241,8/13/2024,Checking,Transfer,2602,Money Transfer,System
+T0242,11/1/2024,Savings,Deposit,815,Bonus Payment,Online
+T0243,11/29/2024,Savings,Transfer,4253,Internal Transfer,Main Branch
+T0244,6/28/2024,Savings,Withdrawal,107,Cash Withdrawal,ATM-002
+T0245,5/23/2024,Checking,Interest,140,Monthly Interest,Main Branch
+T0246,11/10/2024,Checking,Deposit,856,Refund,ATM-001
+T0247,9/24/2024,Checking,Payment,3098,Coffee Shop,ATM-002
+T0248,6/9/2024,Checking,Interest,14,Monthly Interest,Online
+T0249,2/8/2024,Savings,Deposit,5441,Refund,ATM-001
+T0250,2/21/2024,Checking,Interest,55,Monthly Interest,Online Transfer
+T0251,3/16/2024,Checking,Interest,102,Monthly Interest,System
+T0252,9/8/2024,Checking,Transfer,4738,Investment,Online
+T0253,11/7/2024,Savings,Deposit,5777,Salary Transfer,POS Terminal
+T0254,12/1/2024,Checking,Deposit,1686,Bonus Payment,POS Terminal
+T0255,7/13/2024,Checking,Deposit,6082,Refund,POS Terminal
+T0256,12/3/2024,Savings,Payment,3206,Insurance Payment,Online Transfer
+T0257,2/22/2024,Savings,Payment,1216,Coffee Shop,Online Transfer
+T0258,4/13/2024,Savings,Transfer,1190,Internal Transfer,ATM-002
+T0259,10/12/2024,Savings,Payment,3856,Phone Bill,System
+T0260,8/22/2024,Savings,Withdrawal,1232,ATM Withdrawal,ATM-002
+T0261,9/6/2024,Checking,Interest,118,Monthly Interest,System
+T0262,6/19/2024,Checking,Interest,95,Monthly Interest,Main Branch
+T0263,1/6/2024,Savings,Transfer,1461,Investment,System
+T0264,11/21/2024,Savings,Payment,3883,Phone Bill,Main Branch
+T0265,4/15/2024,Savings,Deposit,3551,Salary Transfer,ATM-001
+T0266,4/15/2024,Checking,Payment,3464,Insurance Payment,ATM-002
+T0267,8/28/2024,Checking,Withdrawal,1948,ATM Withdrawal,ATM-001
+T0268,10/10/2024,Savings,Transfer,2018,Investment,ATM-001
+T0269,1/11/2024,Savings,Payment,1656,Insurance Payment,Online Transfer
+T0270,10/4/2024,Checking,Interest,109,Monthly Interest,POS Terminal
+T0271,11/25/2024,Checking,Deposit,4341,Cash Deposit,Online Transfer
+T0272,7/9/2024,Savings,Payment,3526,Internet Bill,Online Transfer
+T0273,4/16/2024,Savings,Deposit,5579,Salary Transfer,POS Terminal
+T0274,2/18/2024,Savings,Payment,1948,Phone Bill,ATM-002
+T0275,2/14/2024,Checking,Withdrawal,2832,ATM Withdrawal,Online Transfer
+T0276,8/1/2024,Checking,Interest,108,Monthly Interest,Online Transfer
+T0277,9/5/2024,Savings,Transfer,4268,Internal Transfer,Online Transfer
+T0278,5/14/2024,Savings,Transfer,3571,Internal Transfer,Online Transfer
+T0279,6/14/2024,Checking,Withdrawal,333,ATM Withdrawal,Online Transfer
+T0280,6/25/2024,Checking,Payment,2700,Insurance Payment,Online Transfer
+T0281,11/19/2024,Savings,Transfer,841,Money Transfer,ATM-002
+T0282,5/17/2024,Checking,Interest,56,Monthly Interest,Main Branch
+T0283,2/3/2024,Checking,Interest,41,Monthly Interest,Online
+T0284,9/3/2024,Savings,Deposit,7689,Cash Deposit,Main Branch
+T0285,11/13/2024,Checking,Payment,340,Rent Payment,Online
+T0286,10/3/2024,Savings,Deposit,2996,Cash Deposit,System
+T0287,7/12/2024,Checking,Withdrawal,801,Cash Withdrawal,Main Branch
+T0288,6/15/2024,Savings,Transfer,2362,Internal Transfer,Main Branch
+T0289,8/2/2024,Checking,Transfer,909,Money Transfer,System
+T0290,7/15/2024,Checking,Deposit,3475,Cash Deposit,ATM-001
+T0291,3/28/2024,Savings,Transfer,1425,Money Transfer,Online Transfer
+T0292,3/28/2024,Checking,Withdrawal,2307,ATM Withdrawal,Main Branch
+T0293,4/2/2024,Checking,Transfer,3243,Money Transfer,Main Branch
+T0294,11/2/2024,Checking,Transfer,3147,Internal Transfer,System
+T0295,3/22/2024,Savings,Transfer,1814,Investment,ATM-001
+T0296,6/18/2024,Savings,Interest,104,Monthly Interest,Online
+T0297,4/6/2024,Checking,Withdrawal,475,Cash Withdrawal,ATM-001
+T0298,5/28/2024,Checking,Transfer,3918,Money Transfer,Main Branch
+T0299,6/20/2024,Savings,Deposit,6744,Cash Deposit,ATM-001
+T0300,1/5/2024,Checking,Withdrawal,1826,ATM Withdrawal,Online Transfer
+T0301,2/21/2024,Checking,Payment,298,Insurance Payment,ATM-001
+T0302,12/20/2024,Savings,Payment,416,Grocery Shopping,ATM-002
+T0303,6/4/2024,Savings,Withdrawal,2823,Emergency Fund,Online Transfer
+T0304,6/20/2024,Savings,Transfer,3903,Investment,ATM-001
+T0305,6/25/2024,Savings,Transfer,4069,Money Transfer,ATM-001
+T0306,3/20/2024,Savings,Interest,35,Monthly Interest,POS Terminal
+T0307,9/14/2024,Savings,Deposit,4293,Salary Transfer,Main Branch
+T0308,5/27/2024,Checking,Interest,97,Monthly Interest,Online Transfer
+T0309,10/20/2024,Savings,Withdrawal,436,Emergency Fund,System
+T0310,6/8/2024,Checking,Interest,104,Monthly Interest,POS Terminal
+T0311,11/16/2024,Checking,Withdrawal,127,ATM Withdrawal,ATM-002
+T0312,4/18/2024,Checking,Withdrawal,1491,Cash Withdrawal,POS Terminal
+T0313,10/9/2024,Savings,Payment,1121,Phone Bill,POS Terminal
+T0314,12/23/2024,Savings,Deposit,2525,Bonus Payment,ATM-002
+T0315,9/1/2024,Savings,Transfer,4893,Money Transfer,ATM-002
+T0316,10/23/2024,Checking,Interest,20,Monthly Interest,ATM-001
+T0317,9/22/2024,Savings,Payment,1877,Internet Bill,System
+T0318,4/15/2024,Savings,Payment,2982,Insurance Payment,System
+T0319,4/28/2024,Checking,Interest,25,Monthly Interest,Online
+T0320,4/25/2024,Checking,Withdrawal,1698,Emergency Fund,POS Terminal
+T0321,8/10/2024,Savings,Withdrawal,2379,Emergency Fund,System
+T0322,2/8/2024,Checking,Payment,3511,Phone Bill,POS Terminal
+T0323,2/17/2024,Checking,Withdrawal,2624,Emergency Fund,System
+T0324,5/24/2024,Checking,Withdrawal,2056,ATM Withdrawal,Online
+T0325,7/25/2024,Savings,Interest,25,Monthly Interest,Online
+T0326,1/20/2024,Checking,Payment,3927,Phone Bill,ATM-001
+T0327,3/12/2024,Checking,Deposit,4692,Refund,Online
+T0328,11/2/2024,Checking,Interest,148,Monthly Interest,Online Transfer
+T0329,11/12/2024,Savings,Deposit,672,Cash Deposit,ATM-001
+T0330,2/10/2024,Checking,Withdrawal,1897,Cash Withdrawal,ATM-001
+T0331,10/30/2024,Savings,Withdrawal,502,Emergency Fund,Online
+T0332,7/16/2024,Checking,Withdrawal,979,Emergency Fund,ATM-002
+T0333,10/7/2024,Savings,Interest,20,Monthly Interest,Main Branch
+T0334,12/28/2024,Checking,Payment,3274,Phone Bill,Online Transfer
+T0335,3/21/2024,Checking,Interest,46,Monthly Interest,System
+T0336,1/16/2024,Savings,Withdrawal,2027,Cash Withdrawal,ATM-001
+T0337,10/3/2024,Savings,Withdrawal,1246,ATM Withdrawal,System
+T0338,11/19/2024,Savings,Interest,45,Monthly Interest,Online
+T0339,9/4/2024,Checking,Deposit,4335,Refund,Online Transfer
+T0340,10/27/2024,Savings,Withdrawal,906,ATM Withdrawal,Main Branch
+T0341,8/24/2024,Checking,Interest,85,Monthly Interest,POS Terminal
+T0342,3/14/2024,Checking,Withdrawal,2424,Emergency Fund,POS Terminal
+T0343,2/14/2024,Checking,Payment,3562,Utility Bill,ATM-001
+T0344,8/19/2024,Checking,Payment,371,Utility Bill,ATM-001
+T0345,4/23/2024,Savings,Transfer,714,Money Transfer,Online Transfer
+T0346,7/18/2024,Savings,Withdrawal,2898,ATM Withdrawal,System
+T0347,3/4/2024,Savings,Deposit,2936,Salary Transfer,POS Terminal
+T0348,10/25/2024,Checking,Transfer,2404,Investment,Online
+T0349,1/25/2024,Checking,Deposit,5524,Freelance Income,Online
+T0350,12/4/2024,Savings,Transfer,2916,Money Transfer,Main Branch
+T0351,10/8/2024,Checking,Withdrawal,248,Cash Withdrawal,Online Transfer
+T0352,2/9/2024,Checking,Payment,2762,Coffee Shop,Main Branch
+T0353,7/19/2024,Savings,Interest,145,Monthly Interest,System
+T0354,4/29/2024,Checking,Interest,58,Monthly Interest,ATM-001
+T0355,12/11/2024,Savings,Interest,140,Monthly Interest,ATM-002
+T0356,8/27/2024,Savings,Payment,3608,Coffee Shop,ATM-001
+T0357,3/4/2024,Savings,Withdrawal,455,Cash Withdrawal,ATM-002
+T0358,2/19/2024,Checking,Payment,1640,Insurance Payment,ATM-002
+T0359,10/12/2024,Savings,Interest,122,Monthly Interest,ATM-001
+T0360,11/15/2024,Savings,Deposit,6622,Cash Deposit,POS Terminal
+T0361,3/5/2024,Savings,Withdrawal,543,Cash Withdrawal,Online
+T0362,11/30/2024,Checking,Payment,625,Rent Payment,Online
+T0363,2/21/2024,Checking,Deposit,2112,Refund,ATM-002
+T0364,6/17/2024,Checking,Deposit,2175,Cash Deposit,System
+T0365,6/5/2024,Checking,Withdrawal,479,Emergency Fund,Online Transfer
+T0366,5/14/2024,Checking,Interest,109,Monthly Interest,ATM-002
+T0367,8/23/2024,Savings,Transfer,2183,Money Transfer,POS Terminal
+T0368,3/12/2024,Checking,Withdrawal,2869,Cash Withdrawal,Online Transfer
+T0369,7/13/2024,Checking,Transfer,2773,Internal Transfer,System
+T0370,1/13/2024,Savings,Payment,2241,Insurance Payment,ATM-001
+T0371,9/16/2024,Checking,Withdrawal,2697,ATM Withdrawal,ATM-001
+T0372,8/7/2024,Checking,Payment,2072,Coffee Shop,POS Terminal
+T0373,12/16/2024,Checking,Withdrawal,1567,Cash Withdrawal,Online
+T0374,10/25/2024,Savings,Withdrawal,2931,Emergency Fund,System
+T0375,1/6/2024,Checking,Withdrawal,2187,ATM Withdrawal,System
+T0376,2/14/2024,Savings,Withdrawal,672,Cash Withdrawal,ATM-001
+T0377,9/11/2024,Checking,Transfer,4625,Investment,System
+T0378,9/16/2024,Savings,Payment,2507,Phone Bill,Online
+T0379,3/9/2024,Savings,Transfer,1795,Internal Transfer,System
+T0380,5/9/2024,Checking,Interest,110,Monthly Interest,System
+T0381,12/2/2024,Savings,Interest,32,Monthly Interest,System
+T0382,5/12/2024,Checking,Transfer,1440,Investment,Online Transfer
+T0383,4/21/2024,Checking,Payment,933,Grocery Shopping,System
+T0384,9/7/2024,Savings,Withdrawal,1148,Cash Withdrawal,ATM-002
+T0385,2/27/2024,Savings,Payment,2795,Coffee Shop,ATM-002
+T0386,4/10/2024,Savings,Payment,72,Phone Bill,ATM-002
+T0387,9/28/2024,Savings,Interest,23,Monthly Interest,ATM-002
+T0388,8/14/2024,Checking,Withdrawal,484,Emergency Fund,ATM-002
+T0389,11/5/2024,Checking,Deposit,1353,Cash Deposit,ATM-001
+T0390,1/24/2024,Checking,Transfer,4001,Investment,Main Branch
+T0391,12/28/2024,Savings,Withdrawal,285,Cash Withdrawal,POS Terminal
+T0392,8/23/2024,Savings,Withdrawal,877,Cash Withdrawal,POS Terminal
+T0393,9/2/2024,Checking,Transfer,3774,Investment,ATM-001
+T0394,3/8/2024,Checking,Interest,56,Monthly Interest,ATM-001
+T0395,9/10/2024,Savings,Interest,65,Monthly Interest,ATM-002
+T0396,11/20/2024,Checking,Payment,1665,Internet Bill,ATM-001
+T0397,6/14/2024,Savings,Deposit,2642,Freelance Income,System
+T0398,6/18/2024,Savings,Payment,3927,Grocery Shopping,System
+T0399,3/29/2024,Checking,Withdrawal,869,ATM Withdrawal,POS Terminal
+T0400,6/29/2024,Checking,Interest,138,Monthly Interest,Online
+T0401,11/30/2024,Savings,Payment,1643,Utility Bill,POS Terminal
+T0402,5/14/2024,Savings,Transfer,2009,Money Transfer,ATM-002
+T0403,2/19/2024,Savings,Interest,144,Monthly Interest,ATM-001
+T0404,7/24/2024,Checking,Interest,86,Monthly Interest,ATM-001
+T0405,6/13/2024,Savings,Deposit,3632,Freelance Income,Online
+T0406,12/23/2024,Savings,Interest,105,Monthly Interest,Online
+T0407,3/18/2024,Savings,Interest,27,Monthly Interest,Main Branch
+T0408,7/24/2024,Savings,Interest,27,Monthly Interest,ATM-001
+T0409,1/10/2024,Checking,Transfer,3634,Investment,POS Terminal
+T0410,1/15/2024,Checking,Transfer,3574,Internal Transfer,Online
+T0411,2/19/2024,Savings,Interest,98,Monthly Interest,POS Terminal
+T0412,9/27/2024,Savings,Deposit,7456,Refund,Online
+T0413,12/15/2024,Savings,Transfer,2907,Money Transfer,Main Branch
+T0414,4/3/2024,Checking,Deposit,7850,Refund,System
+T0415,7/31/2024,Checking,Payment,175,Phone Bill,ATM-002
+T0416,9/11/2024,Savings,Transfer,1616,Internal Transfer,POS Terminal
+T0417,11/10/2024,Savings,Transfer,2516,Money Transfer,ATM-001
+T0418,7/3/2024,Savings,Deposit,3692,Salary Transfer,POS Terminal
+T0419,7/14/2024,Savings,Payment,1567,Phone Bill,ATM-002
+T0420,10/19/2024,Checking,Payment,1924,Internet Bill,Online Transfer
+T0421,2/23/2024,Checking,Transfer,3161,Internal Transfer,ATM-002
+T0422,9/11/2024,Savings,Transfer,3717,Investment,Online
+T0423,6/3/2024,Checking,Payment,231,Rent Payment,POS Terminal
+T0424,3/14/2024,Savings,Interest,80,Monthly Interest,Online Transfer
+T0425,5/26/2024,Checking,Withdrawal,726,ATM Withdrawal,ATM-002
+T0426,3/25/2024,Savings,Deposit,1170,Bonus Payment,ATM-001
+T0427,1/17/2024,Savings,Payment,2230,Rent Payment,ATM-001
+T0428,1/11/2024,Checking,Withdrawal,605,Cash Withdrawal,Main Branch
+T0429,3/6/2024,Checking,Transfer,691,Money Transfer,Main Branch
+T0430,12/25/2024,Checking,Transfer,410,Internal Transfer,Online
+T0431,4/5/2024,Checking,Deposit,6210,Salary Transfer,Online Transfer
+T0432,6/24/2024,Savings,Interest,26,Monthly Interest,ATM-001
+T0433,11/13/2024,Checking,Deposit,2224,Freelance Income,ATM-002
+T0434,1/18/2024,Checking,Transfer,3042,Internal Transfer,System
+T0435,12/20/2024,Savings,Interest,89,Monthly Interest,POS Terminal
+T0436,6/12/2024,Savings,Transfer,2919,Internal Transfer,Main Branch
+T0437,12/3/2024,Savings,Deposit,5829,Cash Deposit,POS Terminal
+T0438,9/13/2024,Checking,Interest,16,Monthly Interest,ATM-001
+T0439,9/25/2024,Checking,Deposit,5250,Cash Deposit,Online
+T0440,4/18/2024,Checking,Interest,36,Monthly Interest,ATM-002
+T0441,5/18/2024,Savings,Transfer,4776,Internal Transfer,Online
+T0442,1/6/2024,Savings,Withdrawal,587,Emergency Fund,ATM-002
+T0443,6/23/2024,Savings,Transfer,2548,Internal Transfer,Online
+T0444,4/17/2024,Savings,Interest,102,Monthly Interest,Online
+T0445,7/29/2024,Savings,Deposit,6283,Cash Deposit,Online
+T0446,1/11/2024,Checking,Payment,2177,Phone Bill,Online
+T0447,6/5/2024,Savings,Deposit,1585,Bonus Payment,Online
+T0448,12/30/2024,Savings,Interest,105,Monthly Interest,System
+T0449,8/11/2024,Savings,Withdrawal,931,ATM Withdrawal,ATM-001
+T0450,3/16/2024,Savings,Transfer,1618,Internal Transfer,Main Branch
+T0451,6/7/2024,Savings,Interest,140,Monthly Interest,ATM-002
+T0452,11/21/2024,Savings,Transfer,1136,Internal Transfer,Online
+T0453,1/23/2024,Checking,Payment,2143,Grocery Shopping,Online
+T0454,7/22/2024,Checking,Withdrawal,1474,ATM Withdrawal,Online Transfer
+T0455,1/18/2024,Savings,Interest,129,Monthly Interest,Main Branch
+T0456,11/27/2024,Checking,Deposit,6565,Freelance Income,ATM-001
+T0457,12/1/2024,Checking,Withdrawal,2849,ATM Withdrawal,Online
+T0458,3/3/2024,Checking,Transfer,1737,Investment,Online
+T0459,10/12/2024,Checking,Interest,100,Monthly Interest,Online
+T0460,10/7/2024,Savings,Withdrawal,2546,Cash Withdrawal,System
+T0461,2/1/2024,Checking,Withdrawal,1436,Cash Withdrawal,ATM-001
+T0462,3/4/2024,Checking,Interest,96,Monthly Interest,Online Transfer
+T0463,12/5/2024,Checking,Payment,2216,Grocery Shopping,Main Branch
+T0464,5/12/2024,Savings,Payment,3090,Grocery Shopping,ATM-002
+T0465,7/20/2024,Checking,Payment,1947,Insurance Payment,Main Branch
+T0466,12/24/2024,Checking,Interest,122,Monthly Interest,Online Transfer
+T0467,8/23/2024,Savings,Transfer,4769,Money Transfer,Online
+T0468,1/13/2024,Checking,Transfer,3927,Internal Transfer,ATM-002
+T0469,6/20/2024,Savings,Withdrawal,2931,ATM Withdrawal,ATM-002
+T0470,8/12/2024,Checking,Deposit,1769,Bonus Payment,Online Transfer
+T0471,11/15/2024,Savings,Payment,3062,Insurance Payment,System
+T0472,4/5/2024,Savings,Transfer,732,Internal Transfer,System
+T0473,11/28/2024,Savings,Deposit,2376,Cash Deposit,Main Branch
+T0474,7/6/2024,Checking,Payment,2398,Phone Bill,System
+T0475,11/29/2024,Savings,Withdrawal,654,Cash Withdrawal,Online
+T0476,6/22/2024,Checking,Transfer,748,Internal Transfer,ATM-001
+T0477,9/14/2024,Checking,Deposit,3036,Bonus Payment,ATM-002
+T0478,7/6/2024,Checking,Transfer,4389,Money Transfer,Main Branch
+T0479,5/7/2024,Savings,Transfer,3557,Internal Transfer,Main Branch
+T0480,10/26/2024,Savings,Interest,85,Monthly Interest,POS Terminal
+T0481,10/30/2024,Checking,Interest,122,Monthly Interest,Online Transfer
+T0482,6/25/2024,Savings,Payment,1386,Internet Bill,ATM-001
+T0483,5/8/2024,Savings,Withdrawal,980,ATM Withdrawal,ATM-001
+T0484,6/16/2024,Checking,Interest,10,Monthly Interest,ATM-001
+T0485,11/20/2024,Savings,Interest,95,Monthly Interest,ATM-001
+T0486,3/28/2024,Savings,Withdrawal,378,Cash Withdrawal,POS Terminal
+T0487,12/14/2024,Savings,Interest,128,Monthly Interest,Online
+T0488,8/29/2024,Checking,Transfer,3936,Investment,System
+T0489,6/24/2024,Checking,Transfer,1165,Internal Transfer,Online Transfer
+T0490,1/15/2024,Savings,Deposit,7113,Freelance Income,System
+T0491,2/1/2024,Savings,Deposit,1922,Salary Transfer,ATM-002
+T0492,5/11/2024,Checking,Transfer,4652,Investment,Online
+T0493,1/22/2024,Checking,Transfer,1615,Money Transfer,ATM-001
+T0494,1/13/2024,Savings,Transfer,4079,Investment,Main Branch
+T0495,11/2/2024,Checking,Transfer,1768,Investment,System
+T0496,3/8/2024,Savings,Deposit,6706,Salary Transfer,ATM-001
+T0497,4/19/2024,Savings,Transfer,918,Investment,ATM-001
+T0498,12/11/2024,Savings,Transfer,1073,Money Transfer,System
+T0499,11/10/2024,Checking,Withdrawal,2502,Emergency Fund,ATM-002
+T0500,9/27/2024,Checking,Transfer,3993,Money Transfer,ATM-002
+T0501,3/29/2024,Savings,Interest,102,Monthly Interest,POS Terminal
+T0502,8/19/2024,Checking,Transfer,2061,Internal Transfer,Main Branch
+T0503,4/10/2024,Checking,Transfer,4916,Investment,System
+T0504,6/15/2024,Checking,Withdrawal,1056,ATM Withdrawal,ATM-002
+T0505,5/28/2024,Checking,Payment,3685,Insurance Payment,ATM-001
+T0506,9/12/2024,Savings,Interest,81,Monthly Interest,Online
+T0507,8/13/2024,Savings,Payment,535,Phone Bill,Online
+T0508,8/6/2024,Checking,Deposit,6008,Salary Transfer,Main Branch
+T0509,7/27/2024,Checking,Payment,2868,Rent Payment,Online
+T0510,2/21/2024,Savings,Deposit,5392,Cash Deposit,Online
+T0511,10/24/2024,Savings,Withdrawal,1276,Cash Withdrawal,POS Terminal
+T0512,9/21/2024,Savings,Withdrawal,1165,Emergency Fund,Online Transfer
+T0513,3/24/2024,Savings,Deposit,5121,Cash Deposit,ATM-001
+T0514,3/20/2024,Savings,Payment,232,Grocery Shopping,Online
+T0515,9/9/2024,Checking,Payment,3969,Internet Bill,ATM-001
+T0516,8/26/2024,Savings,Withdrawal,1544,Cash Withdrawal,ATM-001
+T0517,11/11/2024,Savings,Interest,39,Monthly Interest,Main Branch
+T0518,5/7/2024,Savings,Deposit,2806,Refund,ATM-002
+T0519,11/29/2024,Checking,Transfer,1468,Money Transfer,ATM-002
+T0520,8/24/2024,Checking,Deposit,7261,Bonus Payment,POS Terminal
+T0521,7/21/2024,Checking,Interest,81,Monthly Interest,Online Transfer
+T0522,2/17/2024,Checking,Deposit,6014,Salary Transfer,Main Branch
+T0523,8/31/2024,Checking,Withdrawal,378,Cash Withdrawal,Main Branch
+T0524,5/7/2024,Checking,Payment,3820,Phone Bill,System
+T0525,7/10/2024,Savings,Payment,3364,Phone Bill,System
+T0526,5/25/2024,Savings,Interest,80,Monthly Interest,ATM-001
+T0527,7/9/2024,Savings,Transfer,4519,Investment,ATM-002
+T0528,9/11/2024,Savings,Interest,65,Monthly Interest,System
+T0529,2/22/2024,Savings,Interest,21,Monthly Interest,Main Branch
+T0530,3/13/2024,Checking,Payment,2915,Grocery Shopping,ATM-002
+T0531,5/18/2024,Savings,Deposit,3036,Salary Transfer,POS Terminal
+T0532,3/15/2024,Savings,Payment,1944,Grocery Shopping,ATM-001
+T0533,9/13/2024,Savings,Transfer,3120,Investment,System
+T0534,3/17/2024,Checking,Withdrawal,413,ATM Withdrawal,Online
+T0535,8/6/2024,Savings,Withdrawal,518,Emergency Fund,ATM-001
+T0536,1/16/2024,Savings,Deposit,4906,Bonus Payment,System
+T0537,9/5/2024,Savings,Payment,2198,Phone Bill,ATM-001
+T0538,6/7/2024,Checking,Withdrawal,1686,ATM Withdrawal,Online Transfer
+T0539,6/15/2024,Savings,Withdrawal,2724,ATM Withdrawal,Online Transfer
+T0540,4/2/2024,Checking,Withdrawal,2212,Emergency Fund,Main Branch
+T0541,2/20/2024,Savings,Deposit,3614,Refund,ATM-002
+T0542,9/23/2024,Checking,Transfer,4154,Investment,System
+T0543,11/23/2024,Savings,Payment,342,Internet Bill,POS Terminal
+T0544,9/26/2024,Checking,Withdrawal,1735,ATM Withdrawal,ATM-001
+T0545,11/21/2024,Checking,Payment,62,Phone Bill,Main Branch
+T0546,9/9/2024,Savings,Withdrawal,2756,Emergency Fund,Online Transfer
+T0547,8/18/2024,Savings,Deposit,641,Freelance Income,POS Terminal
+T0548,10/20/2024,Checking,Deposit,2796,Salary Transfer,Online Transfer
+T0549,4/14/2024,Savings,Payment,1511,Insurance Payment,Online
+T0550,5/19/2024,Savings,Payment,3300,Utility Bill,POS Terminal
+T0551,11/25/2024,Savings,Interest,43,Monthly Interest,POS Terminal
+T0552,10/18/2024,Savings,Interest,18,Monthly Interest,Main Branch
+T0553,4/26/2024,Checking,Interest,75,Monthly Interest,ATM-001
+T0554,3/22/2024,Checking,Payment,1324,Rent Payment,Main Branch
+T0555,2/23/2024,Checking,Withdrawal,2864,ATM Withdrawal,ATM-002
+T0556,12/2/2024,Checking,Withdrawal,2840,Emergency Fund,Main Branch
+T0557,2/5/2024,Checking,Withdrawal,2028,Emergency Fund,Online
+T0558,8/9/2024,Savings,Deposit,5320,Bonus Payment,ATM-002
+T0559,6/16/2024,Checking,Payment,3535,Rent Payment,System
+T0560,4/24/2024,Savings,Transfer,4664,Internal Transfer,Main Branch
+T0561,7/20/2024,Savings,Withdrawal,1123,ATM Withdrawal,Online Transfer
+T0562,11/28/2024,Savings,Interest,93,Monthly Interest,Online Transfer
+T0563,7/17/2024,Checking,Withdrawal,357,ATM Withdrawal,Main Branch
+T0564,6/19/2024,Checking,Payment,3528,Internet Bill,POS Terminal
+T0565,8/6/2024,Checking,Transfer,527,Internal Transfer,ATM-001
+T0566,11/8/2024,Savings,Payment,501,Internet Bill,Main Branch
+T0567,6/15/2024,Savings,Withdrawal,1391,ATM Withdrawal,Online
+T0568,2/9/2024,Checking,Payment,886,Coffee Shop,System
+T0569,7/10/2024,Savings,Transfer,3830,Internal Transfer,Main Branch
+T0570,6/23/2024,Savings,Payment,2394,Internet Bill,System
+T0571,6/22/2024,Checking,Transfer,4783,Money Transfer,System
+T0572,2/4/2024,Checking,Withdrawal,1164,Emergency Fund,POS Terminal
+T0573,3/13/2024,Savings,Withdrawal,958,Emergency Fund,POS Terminal
+T0574,8/4/2024,Savings,Transfer,1141,Investment,ATM-002
+T0575,11/8/2024,Savings,Transfer,1267,Money Transfer,POS Terminal
+T0576,10/1/2024,Savings,Payment,3695,Rent Payment,POS Terminal
+T0577,8/28/2024,Checking,Transfer,3005,Money Transfer,ATM-002
+T0578,2/11/2024,Savings,Deposit,3733,Salary Transfer,Online
+T0579,9/22/2024,Savings,Deposit,645,Bonus Payment,System
+T0580,5/13/2024,Checking,Withdrawal,1156,Emergency Fund,ATM-002
+T0581,10/25/2024,Checking,Withdrawal,628,Emergency Fund,System
+T0582,8/20/2024,Savings,Withdrawal,2096,ATM Withdrawal,POS Terminal
+T0583,10/17/2024,Savings,Payment,1324,Insurance Payment,ATM-002
+T0584,6/25/2024,Checking,Interest,148,Monthly Interest,Main Branch
+T0585,2/6/2024,Savings,Payment,3683,Internet Bill,System
+T0586,10/25/2024,Checking,Withdrawal,1935,Cash Withdrawal,POS Terminal
+T0587,2/6/2024,Savings,Interest,117,Monthly Interest,Main Branch
+T0588,12/5/2024,Savings,Transfer,383,Internal Transfer,Main Branch
+T0589,3/9/2024,Savings,Deposit,2926,Bonus Payment,Online
+T0590,3/6/2024,Savings,Deposit,4561,Refund,Online Transfer
+T0591,11/23/2024,Savings,Transfer,3758,Investment,Main Branch
+T0592,11/9/2024,Checking,Withdrawal,2368,Emergency Fund,System
+T0593,8/15/2024,Savings,Deposit,7449,Cash Deposit,Main Branch
+T0594,3/28/2024,Savings,Deposit,3030,Cash Deposit,ATM-002
+T0595,12/18/2024,Savings,Withdrawal,1059,ATM Withdrawal,Main Branch
+T0596,4/4/2024,Checking,Payment,646,Rent Payment,ATM-002
+T0597,5/17/2024,Checking,Deposit,2646,Freelance Income,ATM-002
+T0598,12/15/2024,Savings,Transfer,1018,Internal Transfer,Online
+T0599,7/31/2024,Savings,Deposit,1913,Salary Transfer,POS Terminal
+T0600,11/18/2024,Checking,Deposit,7387,Freelance Income,Main Branch
+T0601,11/4/2024,Savings,Withdrawal,190,Cash Withdrawal,POS Terminal
+T0602,3/31/2024,Savings,Deposit,4510,Salary Transfer,System
+T0603,2/14/2024,Savings,Withdrawal,1543,ATM Withdrawal,Main Branch
+T0604,1/13/2024,Savings,Payment,1037,Phone Bill,ATM-002
+T0605,5/19/2024,Savings,Payment,249,Rent Payment,ATM-001
+T0606,3/14/2024,Savings,Interest,65,Monthly Interest,ATM-002
+T0607,9/12/2024,Checking,Deposit,1838,Cash Deposit,Main Branch
+T0608,1/20/2024,Checking,Payment,1614,Insurance Payment,ATM-002
+T0609,3/21/2024,Checking,Payment,2476,Phone Bill,ATM-002
+T0610,9/30/2024,Checking,Deposit,1147,Refund,Online Transfer
+T0611,11/7/2024,Savings,Transfer,971,Investment,Main Branch
+T0612,5/29/2024,Savings,Transfer,4335,Internal Transfer,Online
+T0613,8/29/2024,Checking,Withdrawal,1421,ATM Withdrawal,System
+T0614,4/15/2024,Savings,Transfer,4384,Internal Transfer,POS Terminal
+T0615,6/1/2024,Savings,Payment,3534,Coffee Shop,Online Transfer
+T0616,6/5/2024,Checking,Payment,3753,Phone Bill,ATM-001
+T0617,7/1/2024,Checking,Transfer,387,Investment,ATM-001
+T0618,5/5/2024,Checking,Payment,1418,Insurance Payment,POS Terminal
+T0619,10/5/2024,Savings,Interest,66,Monthly Interest,ATM-001
+T0620,12/8/2024,Checking,Deposit,5991,Freelance Income,Main Branch
+T0621,10/17/2024,Savings,Deposit,6462,Salary Transfer,System
+T0622,7/1/2024,Checking,Transfer,1938,Money Transfer,ATM-001
+T0623,6/7/2024,Checking,Transfer,927,Internal Transfer,ATM-001
+T0624,4/29/2024,Checking,Transfer,4997,Investment,Online
+T0625,8/21/2024,Savings,Transfer,2446,Internal Transfer,Online
+T0626,1/1/2024,Savings,Interest,102,Monthly Interest,System
+T0627,2/13/2024,Savings,Withdrawal,546,Cash Withdrawal,System
+T0628,8/29/2024,Savings,Interest,39,Monthly Interest,Online Transfer
+T0629,6/27/2024,Savings,Transfer,2295,Internal Transfer,Online Transfer
+T0630,7/23/2024,Savings,Interest,61,Monthly Interest,Online Transfer
+T0631,2/1/2024,Checking,Transfer,1860,Internal Transfer,Main Branch
+T0632,9/19/2024,Checking,Interest,60,Monthly Interest,Online Transfer
+T0633,2/17/2024,Savings,Interest,37,Monthly Interest,System
+T0634,6/8/2024,Checking,Interest,121,Monthly Interest,Online
+T0635,5/6/2024,Checking,Withdrawal,2970,ATM Withdrawal,ATM-001
+T0636,9/19/2024,Savings,Payment,573,Utility Bill,POS Terminal
+T0637,1/24/2024,Checking,Interest,80,Monthly Interest,ATM-002
+T0638,2/2/2024,Checking,Payment,1466,Grocery Shopping,POS Terminal
+T0639,7/4/2024,Checking,Deposit,4816,Salary Transfer,System
+T0640,10/12/2024,Checking,Withdrawal,980,Emergency Fund,Main Branch
+T0641,5/3/2024,Savings,Deposit,2904,Cash Deposit,POS Terminal
+T0642,9/12/2024,Checking,Deposit,7315,Cash Deposit,ATM-001
+T0643,8/9/2024,Checking,Transfer,465,Money Transfer,ATM-001
+T0644,12/20/2024,Savings,Deposit,5141,Bonus Payment,System
+T0645,2/24/2024,Checking,Transfer,3589,Investment,Online Transfer
+T0646,2/7/2024,Checking,Payment,1462,Coffee Shop,ATM-002
+T0647,4/12/2024,Checking,Deposit,7148,Freelance Income,Main Branch
+T0648,9/2/2024,Checking,Transfer,4653,Money Transfer,ATM-002
+T0649,11/10/2024,Savings,Withdrawal,1987,Cash Withdrawal,System
+T0650,3/28/2024,Savings,Payment,1287,Coffee Shop,ATM-001
+T0651,8/23/2024,Savings,Withdrawal,1256,ATM Withdrawal,Online Transfer
+T0652,4/2/2024,Savings,Interest,47,Monthly Interest,Main Branch
+T0653,11/17/2024,Savings,Transfer,3318,Investment,Online Transfer
+T0654,11/15/2024,Savings,Withdrawal,2796,ATM Withdrawal,POS Terminal
+T0655,5/9/2024,Checking,Withdrawal,2922,Emergency Fund,ATM-002
+T0656,10/20/2024,Checking,Withdrawal,1885,ATM Withdrawal,Online
+T0657,1/29/2024,Savings,Withdrawal,1543,Cash Withdrawal,System
+T0658,2/3/2024,Checking,Payment,3094,Rent Payment,POS Terminal
+T0659,5/27/2024,Checking,Deposit,6010,Cash Deposit,POS Terminal
+T0660,9/17/2024,Savings,Interest,47,Monthly Interest,ATM-001
+T0661,12/13/2024,Checking,Interest,49,Monthly Interest,Online
+T0662,1/3/2024,Savings,Deposit,7877,Freelance Income,ATM-002
+T0663,4/13/2024,Savings,Withdrawal,1570,ATM Withdrawal,Online
+T0664,4/3/2024,Checking,Withdrawal,1404,Cash Withdrawal,Online
+T0665,11/26/2024,Savings,Interest,89,Monthly Interest,Main Branch
+T0666,6/15/2024,Savings,Payment,1069,Coffee Shop,ATM-001
+T0667,7/11/2024,Checking,Withdrawal,1430,Cash Withdrawal,Online
+T0668,10/28/2024,Checking,Interest,16,Monthly Interest,System
+T0669,8/9/2024,Checking,Withdrawal,327,ATM Withdrawal,System
+T0670,12/15/2024,Checking,Payment,2696,Utility Bill,ATM-002
+T0671,3/12/2024,Savings,Transfer,2629,Investment,Main Branch
+T0672,5/12/2024,Savings,Deposit,4646,Salary Transfer,System
+T0673,5/19/2024,Checking,Interest,65,Monthly Interest,Main Branch
+T0674,11/11/2024,Checking,Payment,808,Insurance Payment,Online
+T0675,11/16/2024,Checking,Payment,1849,Phone Bill,Main Branch
+T0676,9/4/2024,Checking,Withdrawal,2085,Emergency Fund,ATM-002
+T0677,7/22/2024,Savings,Payment,64,Grocery Shopping,System
+T0678,7/11/2024,Savings,Deposit,4348,Cash Deposit,POS Terminal
+T0679,10/7/2024,Checking,Withdrawal,2993,Emergency Fund,Online Transfer
+T0680,5/6/2024,Checking,Payment,392,Phone Bill,Main Branch
+T0681,12/26/2024,Savings,Deposit,922,Refund,Main Branch
+T0682,9/11/2024,Savings,Deposit,5875,Refund,Online
+T0683,9/21/2024,Savings,Interest,126,Monthly Interest,Online Transfer
+T0684,2/13/2024,Checking,Payment,2971,Rent Payment,Online Transfer
+T0685,2/27/2024,Checking,Interest,60,Monthly Interest,POS Terminal
+T0686,1/12/2024,Savings,Interest,31,Monthly Interest,Online Transfer
+T0687,8/29/2024,Checking,Deposit,5256,Refund,POS Terminal
+T0688,3/25/2024,Checking,Interest,45,Monthly Interest,ATM-001
+T0689,6/16/2024,Savings,Interest,119,Monthly Interest,System
+T0690,8/18/2024,Savings,Deposit,556,Cash Deposit,System
+T0691,11/26/2024,Checking,Transfer,4603,Money Transfer,System
+T0692,9/4/2024,Checking,Payment,3294,Phone Bill,POS Terminal
+T0693,9/28/2024,Savings,Interest,48,Monthly Interest,System
+T0694,12/27/2024,Checking,Deposit,7366,Freelance Income,Main Branch
+T0695,12/16/2024,Checking,Withdrawal,416,Emergency Fund,Main Branch
+T0696,5/23/2024,Savings,Transfer,4923,Internal Transfer,POS Terminal
+T0697,8/20/2024,Savings,Withdrawal,1648,Cash Withdrawal,ATM-002
+T0698,7/27/2024,Checking,Withdrawal,2870,ATM Withdrawal,Online Transfer
+T0699,8/18/2024,Savings,Withdrawal,1745,Cash Withdrawal,Online Transfer
+T0700,6/10/2024,Checking,Deposit,968,Salary Transfer,Main Branch
+T0701,11/8/2024,Checking,Withdrawal,2254,Emergency Fund,Main Branch
+T0702,11/20/2024,Checking,Deposit,2888,Bonus Payment,Online
+T0703,4/12/2024,Checking,Interest,117,Monthly Interest,ATM-002
+T0704,3/11/2024,Checking,Deposit,7376,Refund,ATM-002
+T0705,3/12/2024,Savings,Transfer,420,Internal Transfer,System
+T0706,7/5/2024,Checking,Payment,135,Utility Bill,ATM-002
+T0707,8/19/2024,Savings,Withdrawal,1170,Emergency Fund,Online
+T0708,1/19/2024,Savings,Transfer,1101,Investment,Online
+T0709,4/12/2024,Checking,Interest,40,Monthly Interest,System
+T0710,3/8/2024,Checking,Withdrawal,1233,Emergency Fund,Main Branch
+T0711,5/1/2024,Savings,Withdrawal,1162,Emergency Fund,ATM-001
+T0712,4/24/2024,Checking,Payment,2122,Coffee Shop,ATM-001
+T0713,3/6/2024,Checking,Transfer,1084,Investment,ATM-001
+T0714,6/7/2024,Checking,Deposit,4517,Bonus Payment,System
+T0715,12/30/2024,Checking,Transfer,2337,Money Transfer,Online
+T0716,1/11/2024,Checking,Payment,1452,Insurance Payment,System
+T0717,12/3/2024,Checking,Interest,51,Monthly Interest,Online
+T0718,10/22/2024,Savings,Deposit,6247,Cash Deposit,Online
+T0719,11/13/2024,Savings,Deposit,6676,Refund,Online Transfer
+T0720,4/1/2024,Checking,Payment,2437,Rent Payment,POS Terminal
+T0721,6/25/2024,Checking,Withdrawal,2356,Emergency Fund,Online Transfer
+T0722,5/4/2024,Checking,Deposit,1699,Cash Deposit,ATM-002
+T0723,10/18/2024,Savings,Interest,139,Monthly Interest,Online Transfer
+T0724,5/31/2024,Savings,Transfer,1428,Investment,Online Transfer
+T0725,8/3/2024,Savings,Interest,143,Monthly Interest,Main Branch
+T0726,2/7/2024,Checking,Withdrawal,686,ATM Withdrawal,System
+T0727,10/26/2024,Savings,Withdrawal,1895,Cash Withdrawal,Online
+T0728,3/18/2024,Savings,Interest,135,Monthly Interest,Online Transfer
+T0729,1/10/2024,Savings,Deposit,5260,Salary Transfer,POS Terminal
+T0730,4/4/2024,Checking,Transfer,3259,Money Transfer,ATM-001
+T0731,10/30/2024,Checking,Transfer,2624,Investment,Online Transfer
+T0732,10/2/2024,Checking,Interest,19,Monthly Interest,POS Terminal
+T0733,3/29/2024,Savings,Transfer,2222,Internal Transfer,System
+T0734,7/4/2024,Savings,Deposit,5639,Cash Deposit,ATM-002
+T0735,8/1/2024,Savings,Interest,113,Monthly Interest,ATM-002
+T0736,4/24/2024,Savings,Transfer,2533,Money Transfer,System
+T0737,12/18/2024,Savings,Withdrawal,490,ATM Withdrawal,Online Transfer
+T0738,1/24/2024,Checking,Transfer,4161,Money Transfer,System
+T0739,4/30/2024,Savings,Payment,748,Utility Bill,ATM-001
+T0740,5/17/2024,Checking,Payment,869,Utility Bill,POS Terminal
+T0741,7/10/2024,Checking,Withdrawal,225,Cash Withdrawal,ATM-002
+T0742,2/14/2024,Savings,Interest,77,Monthly Interest,ATM-001
+T0743,9/7/2024,Checking,Deposit,572,Salary Transfer,ATM-001
+T0744,11/28/2024,Checking,Payment,2162,Utility Bill,Online
+T0745,4/3/2024,Checking,Payment,3720,Insurance Payment,Online Transfer
+T0746,12/13/2024,Checking,Deposit,2502,Bonus Payment,POS Terminal
+T0747,10/26/2024,Checking,Transfer,362,Internal Transfer,ATM-002
+T0748,12/16/2024,Checking,Payment,692,Coffee Shop,Online Transfer
+T0749,12/6/2024,Checking,Transfer,4855,Investment,System
+T0750,7/7/2024,Savings,Interest,81,Monthly Interest,POS Terminal
+T0751,5/31/2024,Checking,Transfer,595,Investment,POS Terminal
+T0752,1/21/2024,Savings,Withdrawal,1689,ATM Withdrawal,ATM-001
+T0753,7/5/2024,Savings,Interest,21,Monthly Interest,Online
+T0754,4/8/2024,Checking,Withdrawal,1622,Emergency Fund,ATM-001
+T0755,4/21/2024,Savings,Payment,3355,Rent Payment,Online
+T0756,12/24/2024,Checking,Interest,13,Monthly Interest,Online
+T0757,7/20/2024,Savings,Payment,473,Grocery Shopping,ATM-001
+T0758,11/5/2024,Checking,Transfer,2408,Investment,Online Transfer
+T0759,10/1/2024,Checking,Transfer,374,Investment,Main Branch
+T0760,6/24/2024,Checking,Withdrawal,1204,Cash Withdrawal,Online Transfer
+T0761,5/20/2024,Checking,Deposit,2572,Salary Transfer,POS Terminal
+T0762,11/14/2024,Checking,Deposit,5274,Bonus Payment,System
+T0763,9/9/2024,Checking,Payment,3945,Grocery Shopping,Online Transfer
+T0764,10/20/2024,Checking,Payment,331,Coffee Shop,ATM-002
+T0765,8/25/2024,Checking,Transfer,358,Investment,ATM-002
+T0766,9/17/2024,Checking,Deposit,2795,Cash Deposit,Online
+T0767,9/14/2024,Savings,Interest,30,Monthly Interest,ATM-002
+T0768,12/17/2024,Savings,Withdrawal,628,Cash Withdrawal,System
+T0769,1/19/2024,Savings,Interest,119,Monthly Interest,ATM-001
+T0770,7/8/2024,Checking,Transfer,3226,Investment,POS Terminal
+T0771,12/17/2024,Checking,Transfer,3398,Investment,POS Terminal
+T0772,11/30/2024,Savings,Transfer,3049,Internal Transfer,ATM-002
+T0773,6/20/2024,Checking,Deposit,1864,Cash Deposit,Online
+T0774,3/11/2024,Savings,Payment,3017,Insurance Payment,Online Transfer
+T0775,11/11/2024,Savings,Deposit,7611,Refund,Online
+T0776,3/29/2024,Savings,Interest,142,Monthly Interest,Main Branch
+T0777,11/5/2024,Checking,Interest,86,Monthly Interest,ATM-001
+T0778,2/22/2024,Checking,Deposit,1234,Freelance Income,ATM-002
+T0779,12/12/2024,Checking,Payment,372,Insurance Payment,ATM-001
+T0780,8/27/2024,Checking,Withdrawal,2150,Emergency Fund,Online Transfer
+T0781,3/21/2024,Checking,Payment,951,Insurance Payment,POS Terminal
+T0782,1/8/2024,Checking,Transfer,4620,Internal Transfer,Online Transfer
+T0783,12/14/2024,Savings,Transfer,4775,Internal Transfer,ATM-001
+T0784,6/17/2024,Checking,Payment,580,Insurance Payment,System
+T0785,2/25/2024,Checking,Deposit,533,Cash Deposit,ATM-001
+T0786,10/26/2024,Savings,Withdrawal,1814,Emergency Fund,System
+T0787,5/20/2024,Checking,Interest,124,Monthly Interest,Online Transfer
+T0788,7/30/2024,Savings,Transfer,2609,Internal Transfer,ATM-002
+T0789,9/19/2024,Savings,Interest,82,Monthly Interest,Online Transfer
+T0790,6/26/2024,Checking,Transfer,3020,Investment,POS Terminal
+T0791,3/7/2024,Savings,Payment,1174,Utility Bill,Online
+T0792,10/13/2024,Checking,Interest,69,Monthly Interest,Main Branch
+T0793,11/12/2024,Savings,Payment,3021,Phone Bill,POS Terminal
+T0794,1/9/2024,Savings,Deposit,4014,Cash Deposit,ATM-001
+T0795,5/24/2024,Savings,Transfer,4713,Money Transfer,Online
+T0796,1/8/2024,Checking,Withdrawal,2811,ATM Withdrawal,POS Terminal
+T0797,9/21/2024,Checking,Withdrawal,2208,ATM Withdrawal,ATM-002
+T0798,10/6/2024,Checking,Deposit,1456,Refund,Online
+T0799,5/17/2024,Checking,Interest,17,Monthly Interest,Online Transfer
+T0800,12/9/2024,Checking,Deposit,2642,Bonus Payment,POS Terminal
+T0801,1/21/2024,Savings,Withdrawal,737,ATM Withdrawal,ATM-002
+T0802,10/25/2024,Checking,Deposit,5436,Freelance Income,Main Branch
+T0803,10/30/2024,Savings,Transfer,1305,Investment,Online
+T0804,12/6/2024,Savings,Transfer,1541,Investment,POS Terminal
+T0805,5/23/2024,Savings,Deposit,1361,Refund,POS Terminal
+T0806,3/15/2024,Savings,Transfer,3858,Money Transfer,Online
+T0807,6/6/2024,Savings,Withdrawal,402,Cash Withdrawal,ATM-002
+T0808,11/25/2024,Checking,Interest,48,Monthly Interest,Online
+T0809,9/24/2024,Checking,Deposit,7541,Salary Transfer,Main Branch
+T0810,2/24/2024,Savings,Withdrawal,439,Emergency Fund,System
+T0811,6/28/2024,Savings,Payment,52,Utility Bill,System
+T0812,4/5/2024,Savings,Deposit,1882,Freelance Income,POS Terminal
+T0813,6/7/2024,Savings,Payment,1555,Grocery Shopping,POS Terminal
+T0814,5/22/2024,Checking,Payment,1201,Utility Bill,Online Transfer
+T0815,12/23/2024,Savings,Interest,63,Monthly Interest,POS Terminal
+T0816,7/6/2024,Checking,Payment,957,Internet Bill,POS Terminal
+T0817,10/3/2024,Checking,Deposit,964,Cash Deposit,ATM-002
+T0818,7/29/2024,Savings,Payment,2571,Utility Bill,System
+T0819,7/6/2024,Checking,Payment,3866,Phone Bill,POS Terminal
+T0820,5/9/2024,Savings,Withdrawal,1731,Cash Withdrawal,Main Branch
+T0821,10/9/2024,Checking,Deposit,6821,Refund,ATM-001
+T0822,10/10/2024,Checking,Payment,128,Grocery Shopping,Online
+T0823,6/20/2024,Savings,Interest,27,Monthly Interest,System
+T0824,9/9/2024,Savings,Deposit,4244,Bonus Payment,ATM-001
+T0825,5/21/2024,Checking,Payment,1667,Internet Bill,POS Terminal
+T0826,6/18/2024,Savings,Transfer,1390,Investment,System
+T0827,6/16/2024,Savings,Deposit,1007,Freelance Income,Main Branch
+T0828,2/5/2024,Savings,Interest,34,Monthly Interest,ATM-002
+T0829,8/5/2024,Checking,Interest,20,Monthly Interest,Online Transfer
+T0830,12/10/2024,Checking,Interest,86,Monthly Interest,System
+T0831,2/10/2024,Checking,Interest,46,Monthly Interest,System
+T0832,11/13/2024,Checking,Withdrawal,645,Emergency Fund,Online Transfer
+T0833,12/1/2024,Checking,Transfer,1821,Investment,Online Transfer
+T0834,6/9/2024,Savings,Interest,61,Monthly Interest,Online Transfer
+T0835,12/26/2024,Checking,Payment,1426,Utility Bill,ATM-001
+T0836,8/6/2024,Savings,Transfer,1194,Money Transfer,Main Branch
+T0837,2/28/2024,Savings,Payment,2327,Phone Bill,Online
+T0838,10/7/2024,Checking,Transfer,2346,Money Transfer,ATM-001
+T0839,9/15/2024,Savings,Interest,60,Monthly Interest,ATM-001
+T0840,12/30/2024,Savings,Interest,132,Monthly Interest,Online Transfer
+T0841,12/3/2024,Savings,Withdrawal,2487,Emergency Fund,Online
+T0842,7/9/2024,Savings,Transfer,1149,Investment,Main Branch
+T0843,4/1/2024,Checking,Deposit,671,Refund,POS Terminal
+T0844,1/31/2024,Savings,Interest,22,Monthly Interest,ATM-002
+T0845,7/22/2024,Savings,Deposit,2961,Salary Transfer,System
+T0846,10/19/2024,Checking,Withdrawal,590,ATM Withdrawal,POS Terminal
+T0847,7/5/2024,Checking,Payment,690,Phone Bill,ATM-001
+T0848,1/21/2024,Checking,Deposit,6368,Salary Transfer,Online Transfer
+T0849,3/17/2024,Checking,Withdrawal,1574,Cash Withdrawal,ATM-001
+T0850,7/27/2024,Savings,Withdrawal,1919,Cash Withdrawal,POS Terminal
+T0851,2/29/2024,Checking,Transfer,2096,Investment,Online
+T0852,10/23/2024,Savings,Withdrawal,264,ATM Withdrawal,System
+T0853,12/23/2024,Checking,Payment,244,Grocery Shopping,System
+T0854,6/16/2024,Savings,Interest,127,Monthly Interest,Online
+T0855,8/8/2024,Checking,Interest,100,Monthly Interest,POS Terminal
+T0856,8/14/2024,Savings,Deposit,2687,Salary Transfer,System
+T0857,5/2/2024,Savings,Interest,70,Monthly Interest,Online Transfer
+T0858,6/22/2024,Savings,Deposit,1794,Salary Transfer,Main Branch
+T0859,1/25/2024,Savings,Deposit,3557,Salary Transfer,ATM-001
+T0860,10/4/2024,Checking,Payment,2010,Internet Bill,POS Terminal
+T0861,5/15/2024,Savings,Deposit,7464,Salary Transfer,ATM-002
+T0862,9/6/2024,Savings,Deposit,812,Salary Transfer,Online
+T0863,5/28/2024,Savings,Payment,1396,Rent Payment,ATM-001
+T0864,5/15/2024,Savings,Deposit,7526,Salary Transfer,ATM-001
+T0865,9/7/2024,Checking,Withdrawal,2351,ATM Withdrawal,ATM-001
+T0866,1/31/2024,Checking,Payment,564,Internet Bill,Online
+T0867,4/7/2024,Savings,Deposit,3224,Bonus Payment,Online
+T0868,5/28/2024,Checking,Withdrawal,679,Cash Withdrawal,ATM-002
+T0869,12/26/2024,Checking,Transfer,4140,Money Transfer,Online Transfer
+T0870,8/24/2024,Savings,Withdrawal,2308,ATM Withdrawal,Online Transfer
+T0871,10/2/2024,Checking,Deposit,1612,Cash Deposit,System
+T0872,12/4/2024,Checking,Transfer,1955,Investment,Online
+T0873,10/1/2024,Savings,Deposit,1672,Salary Transfer,ATM-002
+T0874,1/1/2024,Checking,Transfer,1962,Internal Transfer,ATM-002
+T0875,6/12/2024,Checking,Withdrawal,1211,Emergency Fund,Online
+T0876,8/17/2024,Savings,Transfer,3910,Investment,Online
+T0877,1/8/2024,Savings,Payment,3762,Insurance Payment,Main Branch
+T0878,12/23/2024,Savings,Deposit,3971,Refund,Main Branch
+T0879,12/6/2024,Checking,Interest,146,Monthly Interest,Online
+T0880,8/15/2024,Checking,Payment,1339,Internet Bill,POS Terminal
+T0881,7/8/2024,Checking,Transfer,1657,Money Transfer,Online Transfer
+T0882,5/26/2024,Savings,Deposit,2955,Bonus Payment,ATM-001
+T0883,12/21/2024,Savings,Payment,1794,Utility Bill,POS Terminal
+T0884,2/15/2024,Checking,Interest,47,Monthly Interest,Online Transfer
+T0885,4/19/2024,Checking,Withdrawal,1568,ATM Withdrawal,Online Transfer
+T0886,1/17/2024,Checking,Payment,2766,Phone Bill,POS Terminal
+T0887,3/4/2024,Checking,Withdrawal,223,ATM Withdrawal,ATM-001
+T0888,5/30/2024,Savings,Interest,67,Monthly Interest,ATM-002
+T0889,11/30/2024,Savings,Deposit,7482,Refund,Online Transfer
+T0890,9/18/2024,Savings,Interest,65,Monthly Interest,Online
+T0891,5/8/2024,Savings,Payment,409,Grocery Shopping,Main Branch
+T0892,1/22/2024,Checking,Transfer,3119,Money Transfer,ATM-001
+T0893,12/23/2024,Savings,Withdrawal,1744,Cash Withdrawal,ATM-002
+T0894,11/5/2024,Savings,Deposit,4277,Refund,ATM-002
+T0895,3/22/2024,Savings,Withdrawal,272,Cash Withdrawal,Main Branch
+T0896,9/4/2024,Savings,Transfer,3182,Investment,ATM-001
+T0897,5/23/2024,Savings,Withdrawal,567,Cash Withdrawal,Main Branch
+T0898,12/9/2024,Savings,Deposit,4563,Freelance Income,System
+T0899,5/19/2024,Savings,Withdrawal,1899,ATM Withdrawal,Main Branch
+T0900,8/20/2024,Savings,Deposit,7160,Refund,Online
+T0901,12/18/2024,Checking,Interest,147,Monthly Interest,Online
+T0902,2/14/2024,Savings,Transfer,4654,Internal Transfer,Online Transfer
+T0903,6/14/2024,Checking,Payment,3157,Internet Bill,ATM-002
+T0904,6/14/2024,Checking,Withdrawal,2874,Emergency Fund,POS Terminal
+T0905,3/4/2024,Savings,Interest,13,Monthly Interest,Online Transfer
+T0906,4/8/2024,Savings,Transfer,564,Money Transfer,Online
+T0907,4/10/2024,Savings,Payment,1876,Utility Bill,POS Terminal
+T0908,11/24/2024,Savings,Transfer,414,Investment,ATM-001
+T0909,4/26/2024,Checking,Transfer,1958,Money Transfer,System
+T0910,7/23/2024,Savings,Payment,2832,Grocery Shopping,System
+T0911,7/26/2024,Checking,Interest,43,Monthly Interest,Online
+T0912,12/3/2024,Savings,Payment,1918,Rent Payment,System
+T0913,3/18/2024,Checking,Transfer,2725,Internal Transfer,ATM-002
+T0914,12/23/2024,Savings,Interest,148,Monthly Interest,Main Branch
+T0915,1/11/2024,Savings,Payment,2598,Rent Payment,ATM-001
+T0916,1/4/2024,Savings,Payment,3155,Coffee Shop,ATM-002
+T0917,7/12/2024,Savings,Transfer,1471,Investment,ATM-002
+T0918,2/19/2024,Checking,Transfer,1206,Money Transfer,POS Terminal
+T0919,5/16/2024,Checking,Interest,59,Monthly Interest,ATM-001
+T0920,5/12/2024,Checking,Interest,146,Monthly Interest,POS Terminal
+T0921,3/25/2024,Savings,Interest,22,Monthly Interest,Main Branch
+T0922,12/15/2024,Savings,Deposit,2307,Refund,POS Terminal
+T0923,6/7/2024,Checking,Withdrawal,1233,Emergency Fund,Main Branch
+T0924,4/13/2024,Savings,Payment,975,Grocery Shopping,ATM-001
+T0925,2/17/2024,Savings,Deposit,1687,Cash Deposit,POS Terminal
+T0926,11/27/2024,Checking,Deposit,3802,Bonus Payment,ATM-001
+T0927,5/14/2024,Savings,Payment,223,Grocery Shopping,Online Transfer
+T0928,10/29/2024,Savings,Withdrawal,1435,Cash Withdrawal,ATM-002
+T0929,2/7/2024,Checking,Payment,3035,Rent Payment,Main Branch
+T0930,4/14/2024,Savings,Withdrawal,557,ATM Withdrawal,ATM-002
+T0931,4/14/2024,Checking,Deposit,1438,Bonus Payment,Online Transfer
+T0932,8/27/2024,Checking,Payment,3659,Utility Bill,POS Terminal
+T0933,11/3/2024,Checking,Interest,143,Monthly Interest,Main Branch
+T0934,6/17/2024,Savings,Deposit,963,Bonus Payment,ATM-001
+T0935,3/3/2024,Checking,Deposit,5005,Refund,POS Terminal
+T0936,8/16/2024,Checking,Interest,127,Monthly Interest,System
+T0937,10/12/2024,Checking,Transfer,1379,Money Transfer,Online Transfer
+T0938,7/25/2024,Savings,Interest,94,Monthly Interest,ATM-001
+T0939,9/23/2024,Checking,Withdrawal,1890,Emergency Fund,ATM-002
+T0940,6/29/2024,Savings,Interest,117,Monthly Interest,Main Branch
+T0941,9/13/2024,Checking,Transfer,1112,Money Transfer,Online
+T0942,8/19/2024,Checking,Deposit,3564,Refund,POS Terminal
+T0943,9/9/2024,Savings,Interest,32,Monthly Interest,Main Branch
+T0944,3/24/2024,Checking,Transfer,770,Investment,System
+T0945,8/30/2024,Savings,Transfer,2433,Investment,Online
+T0946,6/14/2024,Savings,Withdrawal,232,Emergency Fund,Online
+T0947,4/28/2024,Savings,Withdrawal,2531,ATM Withdrawal,Online Transfer
+T0948,11/1/2024,Savings,Transfer,2826,Investment,Online Transfer
+T0949,6/7/2024,Savings,Withdrawal,867,ATM Withdrawal,Online Transfer
+T0950,7/25/2024,Savings,Deposit,3409,Cash Deposit,POS Terminal
+T0951,10/5/2024,Checking,Transfer,2633,Investment,ATM-002
+T0952,3/11/2024,Savings,Transfer,956,Money Transfer,Online
+T0953,5/16/2024,Savings,Interest,51,Monthly Interest,Online
+T0954,2/14/2024,Checking,Withdrawal,983,Emergency Fund,ATM-002
+T0955,11/19/2024,Checking,Transfer,2740,Internal Transfer,ATM-002
+T0956,1/8/2024,Checking,Transfer,1281,Internal Transfer,ATM-002
+T0957,4/18/2024,Savings,Deposit,1057,Refund,Main Branch
+T0958,4/2/2024,Savings,Payment,1969,Utility Bill,ATM-001
+T0959,2/24/2024,Savings,Withdrawal,1909,Cash Withdrawal,Main Branch
+T0960,12/13/2024,Checking,Deposit,1339,Cash Deposit,POS Terminal
+T0961,4/29/2024,Checking,Transfer,2953,Internal Transfer,POS Terminal
+T0962,7/16/2024,Checking,Interest,73,Monthly Interest,ATM-002
+T0963,7/11/2024,Savings,Deposit,3446,Bonus Payment,POS Terminal
+T0964,9/1/2024,Savings,Transfer,3508,Money Transfer,POS Terminal
+T0965,1/9/2024,Savings,Interest,84,Monthly Interest,Online Transfer
+T0966,5/14/2024,Savings,Deposit,6910,Cash Deposit,ATM-001
+T0967,1/1/2024,Checking,Withdrawal,492,ATM Withdrawal,ATM-001
+T0968,5/31/2024,Savings,Withdrawal,1270,ATM Withdrawal,Main Branch
+T0969,5/15/2024,Savings,Deposit,7889,Freelance Income,ATM-001
+T0970,10/11/2024,Checking,Deposit,4990,Salary Transfer,System
+T0971,5/11/2024,Checking,Deposit,4511,Cash Deposit,System
+T0972,10/18/2024,Checking,Payment,617,Utility Bill,POS Terminal
+T0973,6/6/2024,Savings,Interest,73,Monthly Interest,Main Branch
+T0974,2/20/2024,Savings,Transfer,3447,Internal Transfer,ATM-001
+T0975,7/11/2024,Savings,Interest,50,Monthly Interest,Online Transfer
+T0976,2/8/2024,Checking,Withdrawal,1609,Emergency Fund,ATM-002
+T0977,9/10/2024,Savings,Transfer,3897,Internal Transfer,Online
+T0978,3/20/2024,Savings,Payment,1190,Grocery Shopping,ATM-001
+T0979,6/9/2024,Checking,Deposit,6628,Bonus Payment,POS Terminal
+T0980,4/5/2024,Checking,Payment,2079,Rent Payment,POS Terminal
+T0981,10/30/2024,Checking,Transfer,2717,Investment,Online Transfer
+T0982,6/18/2024,Savings,Payment,395,Rent Payment,System
+T0983,5/26/2024,Savings,Payment,1230,Internet Bill,ATM-001
+T0984,1/5/2024,Checking,Interest,86,Monthly Interest,Online
+T0985,7/4/2024,Savings,Interest,43,Monthly Interest,Main Branch
+T0986,7/17/2024,Checking,Withdrawal,1254,Cash Withdrawal,Main Branch
+T0987,12/20/2024,Checking,Withdrawal,462,Emergency Fund,Main Branch
+T0988,11/9/2024,Savings,Payment,3235,Internet Bill,Main Branch
+T0989,8/12/2024,Savings,Deposit,5194,Salary Transfer,ATM-001
+T0990,11/9/2024,Savings,Payment,1814,Grocery Shopping,Main Branch
+T0991,10/6/2024,Savings,Withdrawal,695,Cash Withdrawal,Online
+T0992,3/8/2024,Savings,Deposit,1764,Refund,POS Terminal
+T0993,5/15/2024,Savings,Withdrawal,1847,Cash Withdrawal,ATM-001
+T0994,5/14/2024,Checking,Transfer,1652,Investment,System
+T0995,12/25/2024,Savings,Transfer,3008,Internal Transfer,ATM-002
+T0996,11/7/2024,Savings,Withdrawal,2236,Cash Withdrawal,Online Transfer
+T0997,12/18/2024,Savings,Transfer,791,Internal Transfer,ATM-001
+T0998,8/6/2024,Checking,Transfer,3946,Internal Transfer,ATM-002
+T0999,7/24/2024,Savings,Payment,3948,Utility Bill,Online Transfer
+T1000,8/8/2024,Savings,Interest,14,Monthly Interest,Main Branch
